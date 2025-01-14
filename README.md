@@ -10,7 +10,7 @@ Hello! I'm **Lurvorx**, a passionate FiveM 🛠️ developer currently working o
 - **📜 Lua** (primary scripting language for FiveM)
 - **🌐 HTML & 🎨 CSS** (for building UI/UX)
 - **⚡ JavaScript** (enhancing interactivity)
-- **🔧 React, 🌟 Vue, and 🎛️ Vuetify** (for modern front-end development)
+- **🔧 React, 🌟 Vue, and 🎛️ Vuetify** (for modern front-end development, SOON)
 
 I aim to combine my technical skills with creativity to produce high-quality scripts for the FiveM 🌍 community.
 
