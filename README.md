@@ -1,42 +1,27 @@
-# ✨ Welcome to my GitHub Profile! ✨
+# ✨ Welcome to Lurvorx's Github profile 
 
-\
-*Crafting unique experiences in the 🌍 FiveM community*
+## 🙎‍♂️ About me
+Hello! My name is Lurvorx and I like to code, especially FiveM scripts. I'm currently learning to code high-quality and optimized scripts for the wonderful FiveM community.
 
-## 👨‍💻 About Me
+- 💻 Lua (for FiveM scripting)
+- 🎨 HTML & CSS (UI for FiveM scripts and websites | SOON)
+- 👨‍💻 Javascript (for interactivity | SOON)
 
-Hello! I'm **Lurvorx**, a passionate FiveM 🛠️ developer currently working on creating engaging and optimized scripts for the ESX Legacy framework. I am also learning and expanding my skills in:
-
-- **📜 Lua** (primary scripting language for FiveM)
-- **🌐 HTML & 🎨 CSS** (for building UI/UX)
-- **⚡ JavaScript** (enhancing interactivity)
-- **🔧 React, 🌟 Vue, and 🎛️ Vuetify** (for modern front-end development, SOON)
-
-I aim to combine my technical skills with creativity to produce high-quality scripts for the FiveM 🌍 community.
+These are some things I'm currently learning to enchance high-quality FiveM scripts just for you.
 
 ---
 
-## 🛒 Lurvorx Scripts
+## 😍 Lurvorx Scripts
+I have my own shop called **Lurvorx Scripts**. Where you can find an wonderful community to chat with, and get support for my scripts if needed. Our goal is to delivery high-quality and optimized scripts just for you.
 
-I own **Lurvorx Scripts**, a shop dedicated to selling custom FiveM 🛠️ scripts. Our goal is to deliver premium, well-optimized scripts tailored to the needs of server owners.
+### Projects
+- 🔫 Improved Blackmarket
+- 📦 Improved Delivery/Quest
+- 📦 Storage System
 
-**Check out our resources:**
-
-- 🌐 [Website](https://example.com)
-- 💬 [Discord Server](https://discord.gg/example)
-
----
-
-## 📂 Projects
-
-Here are some of the exciting projects I'm currently working on:
-
-### 🛠️ FiveM Scripts
-
-- **📦 Storage System** (Vue + Vuetify)
-- **🗺️ Quest System** (Interactive missions for players)
-- **⚙️ Optimized Scripts** (Focused on reducing resource monitor usage)
+### Links
+- 💬 [Discord](https://discord.gg/nGv4gZzRBJ)
 
 ---
 
-Thanks for visiting my profile! Let's build something amazing together 🚀.
+Well, I have no more to write, so thank you for visiting my profile and have an great time looking into my repos. 😘
