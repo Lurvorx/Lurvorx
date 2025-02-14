@@ -18,7 +18,7 @@ I have my own shop called **Lurvorx Scripts**. Where you can find an wonderful c
 - 🔫 Improved Blackmarket
 - 📦 Improved Delivery/Quest
 - 📦 Storage System
-- Might change 
+- Might change and add more
 
 ### Links
 - 💬 [Discord](https://discord.gg/Tzzsh8zVyQ)
