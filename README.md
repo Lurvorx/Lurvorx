@@ -21,7 +21,7 @@ I have my own shop called **Lurvorx Scripts**. Where you can find an wonderful c
 - Might change 
 
 ### Links
-- 💬 [Discord](https://discord.gg/8mjp7m2Wy4)
+- 💬 [Discord](https://discord.gg/Tzzsh8zVyQ)
 
 ---
 
