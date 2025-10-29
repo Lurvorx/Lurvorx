@@ -26,3 +26,5 @@ I have my own shop called **Lurvorx Scripts**. Where you can find an wonderful c
 ---
 
 Well, I have no more to write, so thank you for visiting my profile and have an great time looking into my repos. 😘
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K21KARCV)
